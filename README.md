@@ -17,6 +17,14 @@
 - DFRobot I2C 16x2 Arduino LCD Display Module
 
 
+
+<h3> To make connection MQTT and send msg to your whatsapp: </h3>
+  
+ - Install MQTT Explorer and config the broker
+ - Install Node Red and config the broker and add module whatsapp
+ - Follow the instructions of CallMeBot: https://www.callmebot.com/blog/free-api-whatsapp-messages/
+
+
 <H3>Flow</h3>
 
 ![image](https://user-images.githubusercontent.com/67288620/203442471-0539c3ad-86e3-4aca-96d2-dee70b4d8a4b.png)
